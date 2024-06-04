@@ -1,0 +1,10 @@
+allure-pytest>=2.13.5
+allure-python-commons>=2.13.5
+pytest>=8.2.1
+pytest-bdd>=7.1.2
+pytest-html>=4.1.1
+requests>=2.32.2
+selenium>=4.21.0
+selenium-page-factory>=2.7
+urllib3>=2.2.1
+webdriver-manager>=4.0.1

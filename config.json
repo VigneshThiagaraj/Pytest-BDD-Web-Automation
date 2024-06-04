@@ -1,0 +1,6 @@
+{
+  "base_url" : "https://amazon.in/",
+  "browser" : "chrome",
+  "headless" : false,
+  "implicit_wait" : 30
+}
